@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700051523 source:c:\local disk d\cb\proiect 1-managing financial data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<stdbool.h>
+
