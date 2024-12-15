@@ -1,0 +1,8 @@
+1;Ionutz;Vasiliu
+2;Mihai;Acatrinei
+3;Mihnea;Lupu
+4;Alexandra;Raducanu
+5;John;Radu
+6;Cosman;Ilie
+7;Cosman;Andrei
+8;MARIN ;COSTIN
